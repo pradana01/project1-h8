@@ -1,0 +1,184 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    height: 60px;
+    background-color: black;
+    display: absolute;
+    margin-top: -8px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 1600px;
+
+}
+
+li {
+    display: inline-block;
+    color: white;
+    margin-top: 20px;
+    padding-right: 10px;
+        
+}
+
+body {
+    background-image: url(backgroundutama.jpg);
+    background-color: gray;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    back-opa
+}
+
+.main-banner {
+    height: 800px;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+main {
+    text-align: center;
+}
+
+.openingword {
+    text-align: center;
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.contain{
+    height: auto;
+    width: 1000px;
+    text-align: center;
+    margin-top: 9px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    height: auto;
+    
+    
+}
+
+section .contain {
+    margin-bottom: 1080px;
+}
+
+div {
+    height: auto;
+}
+
+table .introtable {
+  height: auto;
+  width: 80%;
+  border: 5px solid black;
+}
+
+.contain td {
+    border: 3px dashed black;
+    background-color: white;
+    width: 500px;
+}
+
+#fotosaya {
+    height: auto;
+    width: 500px;
+}
+
+#fotodm {
+    height: auto;
+    width: 500px;
+}
+
+.partner {
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+#partnertype {
+    background-color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.partnertable {
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px;
+    
+    column-gap: 5px;
+}
+
+.partnertablerow {
+    height: auto;
+    width: auto;
+    display: inline-block;
+    
+}
+
+.partnertablerow img {
+    height: 200px;
+    width: auto;
+    display: block;
+    
+    
+}
+
+#logonc {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.tablesosmed {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.tablerowsosmed img {
+    height: 200px;
+    width: 200px;
+    
+    
+}
+
+.socialmediamarketing {
+    background-color: white;
+    border-radius: 10%;
+    padding-top: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.outro {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

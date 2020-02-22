@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="formstyle.css" type="text/css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isi Formulir</title>
+</head>
+<body>
+    <main>
+        <h1>Fill The Form!</h1>
+        <form action="thankyoupage.html" method="GET">
+            <label class="ratakiri" for="name">Name/Company</label>
+            <input class="ratakanan" type="text" name="name" id="name" required><br>
+
+            <label class="ratakiri" for="emailadd">Email</label>
+            <input class="ratakanan" type="email" name="email" id="emailadd" required><br>
+
+            <label class="ratakiri" for="phone">Phone Number</label>
+            <input class="ratakanan" type="text" name="phone" id="phone" required pattern="[0-9] {10-14}"><br>
+
+            <label class="ratakiri" for="matter">Write what you need</label>
+            <textarea class="ratakanan" id="matter" name="theirneed" rows="30" cols="50" required></textarea><br>
+
+            <input type="submit" value="Send">
+        </form>
+    </main>
+</body>
+</html>
